@@ -1,0 +1,13 @@
+{
+  "name": "pubsubcl",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node pubsubcl.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "socket.io-client": "*",
+    "js-yaml": "^3.6.1"
+  }
+}
